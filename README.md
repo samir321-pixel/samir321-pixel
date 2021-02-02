@@ -27,7 +27,7 @@
 - 🔭 I’m currently working as a **Backend Developer**. 
 - 🌱 I’m currently focusing on **Frontend Web Development** and **Data Structures and Algorithms**.
 - 👯 I’d really like to collaborate on **Django** based projects.
-- 💬 I’m looking forward to contribute to **Open Source Projects**.
+- 📚 I’m looking forward to contribute to **Open Source Projects**.
 - 💬 Ask me about ...anything i will try to help you if i can.
 - ⚡ Fun fact: In my free time, you'll find me Playing CSGO or scrolling through Instagram.
 
