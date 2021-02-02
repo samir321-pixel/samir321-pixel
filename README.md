@@ -30,9 +30,9 @@
 - 💬 I’m looking forward to contribute to **Open Source Projects**.
 - 💬 Ask me about ...anything i will try to help you if i can.
 - ⚡ Fun fact: In my free time, you'll find me Playing CSGO or scrolling through Instagram.
-</br>
+
 ![Samir's GitHub stats](https://github-readme-stats.vercel.app/api?username=samir321-pixel&theme=radical&show_icons=true)
-### registered for local hack day 1st time. Hacking begins.
+
 <h3>Where to find me 😃 </h3>
 <p><a href="https://github.com/samir321-pixel" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Samir_Saitwal" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
   <a href="mailto:saitwalsamir@gmail.com/?hl=en" target="_blank">
