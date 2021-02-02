@@ -19,5 +19,5 @@
       <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
             <img alt="Django" src="https://img.shields.io/badge/-Django-blue" />
    <img alt="Python" src="https://img.shields.io/badge/-Python-orange&logoColor=white" />
-
+     <img alt="MySQL" src="https://img.shields.io/endpoint?color=Red&label=MySQL&logo=MySQL&logoColor=Red&style=social&url=https%3A%2F%2Fdevdocs.io%2Fcss%2F" />
       </p>
