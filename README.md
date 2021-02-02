@@ -17,7 +17,6 @@
   <img alt="git" src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/HTML-FF4500?style=for-the-badge&logo=html5&logoColor=white"/>
            <img src="https://img.shields.io/badge/postgres-0B96B2?style=for-the-badge&logo=postgresql&logoColor=white"/>
-      <img alt="Nodejs" src="https://img.shields.io/badge/NodeJS-07405E?style=for-the-badge&logo=nodejs&logoColor=white" />
               <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
      <img alt="MySQL" src="https://img.shields.io/badge/MySQL-0B96B2?style=for-the-badge&logo=postgresql&logoColor=white" />
