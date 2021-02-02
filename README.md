@@ -23,7 +23,7 @@
          <img alt="SQLite3" src="https://img.shields.io/badge/-SQLite3-gold" />
            <img alt="SQLite3" src="https://img.shields.io/badge/-Swagger-brown" />
       </p>
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+
 
 ### About Personal Stuffs:
 - 🔭 I’m currently working as a **Backend Developer**. 
