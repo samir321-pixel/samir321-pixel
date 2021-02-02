@@ -24,6 +24,11 @@
            <img alt="SQLite3" src="https://img.shields.io/badge/-Swagger-brown" />
       </p>
 
+- 🔭 I’m currently interning as a **Backend Developer**. 
+- 🌱 I’m currently focusing on **Frontend Web Development** and **Data Structures and Algorithms**.
+- 👯 I’d really like to collaborate on **Django** based projects.
+- 💬 I’m looking forward to contribute to **Open Source Projects**.
+- ⚡ Fun fact: In my free time, you'll find me Playing CSGO or scrolling through Instagram.
 
 <h3>Where to find me</h3>
 <p><a href="https://github.com/samir321-pixel" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Samir_Saitwal" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
