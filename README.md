@@ -23,8 +23,7 @@
      <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-purple" />
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
        <img src="https://img.shields.io/badge/CSS-0081CB?&style=for-the-badge&logo=css3&logoColor=white"/>
-         <img alt="SQLite3" src="https://img.shields.io/badge/-SQLite3-gold" />
-           <img alt="SQLite3" src="https://img.shields.io/badge/-Swagger-brown" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
       </p>
 
 ## About Personal Stuffs
