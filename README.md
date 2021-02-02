@@ -23,7 +23,7 @@
          <img alt="SQLite3" src="https://img.shields.io/badge/-SQLite3-gold" />
            <img alt="SQLite3" src="https://img.shields.io/badge/-Swagger-brown" />
       </p>
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+
 ## About Personal Stuffs
 - 🔭 I’m currently working as a **Backend Developer**. 
 - 🌱 I’m currently focusing on **Frontend Web Development** and **Data Structures and Algorithms**.
@@ -33,7 +33,7 @@
 - ⚡ Fun fact: In my free time, you'll find me Playing CSGO or scrolling through Instagram.
 
 ![Samir's GitHub stats](https://github-readme-stats.vercel.app/api?username=samir321-pixel&theme=radical&show_icons=true)
-
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 <h3>Where to find me 😃 </h3>
 <p><a href="https://github.com/samir321-pixel" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Samir_Saitwal" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
   <a href="mailto:saitwalsamir@gmail.com/?hl=en" target="_blank">
