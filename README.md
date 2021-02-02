@@ -1,7 +1,7 @@
 <h1>Hey there, I'm <a  href="https://github.com/samir321-pixel">Samir</a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Nice to see you.</h1>
 
 <p>Backend developer from India.</p>
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -24,13 +24,13 @@
            <img alt="SQLite3" src="https://img.shields.io/badge/-Swagger-brown" />
       </p>
 
-<h3>About Personal Stuffs</h3>
-- 🔭&nbsp; I’m currently working as a **Backend Developer**. 
-- 🌱&nbsp; I’m currently focusing on **Frontend Web Development** and **Data Structures and Algorithms**.
-- 👯&nbsp; I’d really like to collaborate on **Django** based projects.
-- 📚&nbsp; I’m looking forward to contribute to **Open Source Projects**.
-- 💬&nbsp; Ask me about ...anything i will try to help you if i can.
-- ⚡&nbsp; Fun fact: In my free time, you'll find me Playing CSGO or scrolling through Instagram.
+## About Personal Stuffs
+- 🔭 I’m currently working as a **Backend Developer**. 
+- 🌱 I’m currently focusing on **Frontend Web Development** and **Data Structures and Algorithms**.
+- 👯 I’d really like to collaborate on **Django** based projects.
+- 📚 I’m looking forward to contribute to **Open Source Projects**.
+- 💬 Ask me about ...anything i will try to help you if i can.
+- ⚡ Fun fact: In my free time, you'll find me Playing CSGO or scrolling through Instagram.
 
 ![Samir's GitHub stats](https://github-readme-stats.vercel.app/api?username=samir321-pixel&theme=radical&show_icons=true)
 
