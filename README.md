@@ -30,7 +30,7 @@
 - 👯 I’d really like to collaborate on **Django** & **Flask** based projects.
 - 📚 I’m looking forward to contribute to **Open Source Projects**.
 - 💬 Ask me about ...anything i will try to help you if i can.
-- ⚡ Fun fact: In my free time, you'll find me Playing CSGO or scrolling through Instagram.
+- ⚡ Fun fact: I started coding at 18
 
 ![Samir's GitHub stats](https://github-readme-stats.vercel.app/api?username=samir321-pixel&theme=radical&show_icons=true)
 
