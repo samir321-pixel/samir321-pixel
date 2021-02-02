@@ -11,7 +11,7 @@
          <img alt="Firebase" src="https://img.shields.io/badge/Firebase-0081CB?&style=for-the-badge&logo=firebase&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
 
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+  <img alt="Heroku" src="https://img.shields.io/badge/Heroku-092E20?style=for-the-badge&logo=heroku&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/Redux-FF4500?style=for-the-badge&logo=redux&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-FF4500?style=for-the-badge&logo=graphql&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
