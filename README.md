@@ -8,7 +8,7 @@
   <img alt="Docker" src="https://img.shields.io/badge/Docker-F7DF1E?style=for-the-badge&logo=docker&logoColor=black" />
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-         <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-blue" />
+         <img alt="Firebase" src="https://img.shields.io/badge/Firebase-0081CB?&style=for-the-badge&logo=firebase&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
 
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
