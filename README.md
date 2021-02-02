@@ -19,5 +19,4 @@
        <img alt="PostgresSQL" src="https://img.shields.io/badge/-PostgresSQL-brightgreen" />
        <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-green" />
        <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-blue" />
-       <img alt="Flask" src="https://img.shields.io/badge/-Flask-lightgrey" />
       </p>
