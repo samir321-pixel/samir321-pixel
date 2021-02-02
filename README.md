@@ -25,7 +25,7 @@
       </p>
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
-### About Personal Stuffs:
+<h3>About Personal Stuffs</h3>
 - 🔭 I’m currently working as a **Backend Developer**. 
 - 🌱 I’m currently focusing on **Frontend Web Development** and **Data Structures and Algorithms**.
 - 👯 I’d really like to collaborate on **Django** based projects.
