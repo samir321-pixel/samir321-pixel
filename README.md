@@ -15,9 +15,9 @@
       <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
             <img alt="Django" src="https://img.shields.io/badge/-Django-blue" />
    <img alt="Python" src="https://img.shields.io/badge/-Python-orange&logoColor=white" />
-     <img alt="PostgresSQL" src="https://img.shields.io/badge/-PostgresSQL-brightgreen&logoColor=white" />
-       <img alt="PostgresSQL" src="https://img.shields.io/badge/-PostgresSQL-brightgreen&logoColor=white" />
-       <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-green&logoColor=white" />
-       <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-blue&logoColor=white" />
-       <img alt="Flask" src="https://img.shields.io/badge/-Flask-lightgrey&logoColor=white" />
+     <img alt="PostgresSQL" src="https://img.shields.io/badge/-PostgresSQL-brightgreen" />
+       <img alt="PostgresSQL" src="https://img.shields.io/badge/-PostgresSQL-brightgreen" />
+       <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-green" />
+       <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-blue" />
+       <img alt="Flask" src="https://img.shields.io/badge/-Flask-lightgrey" />
       </p>
