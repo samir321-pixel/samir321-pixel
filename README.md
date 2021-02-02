@@ -27,5 +27,5 @@
 
 <h3>Where to find me</h3>
 <p><a href="https://github.com/samir321-pixel" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Samir_Saitwal" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
-  <a href="https://twitter.com/Samir_Saitwal" target="_blank"><img alt="Instagram" src="https://img.shields.io/endpoint?label=Instagram&logo=Instagram&style=social&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
+  <a href="https://twitter.com/Samir_Saitwal" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-orange" /></a> 
 </p>
