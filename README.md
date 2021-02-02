@@ -1,6 +1,6 @@
 <h1>Hey there, I'm <a  href="https://github.com/samir321-pixel">Samir</a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Nice to see you.</h1>
 
-<p>Backend developer from India.</p>
+<h2>Backend developer from India.</h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <h3>Things I code with</h3>
 <p>
