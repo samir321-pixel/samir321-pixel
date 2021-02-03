@@ -51,7 +51,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 ![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
 ![VisitorCount](https://profile-counter.glitch.me/VedantKhairnar/count.svg)
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samir321-pixel)](https://github.com/samir321-pixel/github-readme-streak-stats)
 
 [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
 [![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com)
