@@ -36,7 +36,18 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 - 💬 Ask me about ...anything i will try to help you if i can.
 - ⚡ Fun fact: I started coding at 18
 
-![Samir's GitHub stats](https://github-readme-stats.vercel.app/api?username=samir321-pixel&theme=radical&show_icons=true)
+
+## 🔥 My contribution streak
+
+<!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
+<p align="center">
+  <a href="https://github.com/samir321-pixel/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=samir321-pixel&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
+  </a>
+  ![Samir's GitHub stats](https://github-readme-stats.vercel.app/api?username=samir321-pixel&theme=radical&show_icons=true)
+</p>
+
+<h3 align="center">⬇ Scroll down to see <a href="https://github.com/DenverCoder1?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
 
 
 <h3>Where to find me 😃 </h3>
@@ -51,7 +62,6 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 ![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
 ![VisitorCount](https://profile-counter.glitch.me/VedantKhairnar/count.svg)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samir321-pixel)](https://github.com/samir321-pixel/github-readme-streak-stats)
 
 [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
 [![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com)
