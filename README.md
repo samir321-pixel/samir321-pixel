@@ -44,9 +44,8 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
   <a href="https://github.com/samir321-pixel/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=samir321-pixel&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
   </a>
-  ![Samir's GitHub stats](https://github-readme-stats.vercel.app/api?username=samir321-pixel&theme=radical&show_icons=true)
 </p>
-
+![Samir's GitHub stats](https://github-readme-stats.vercel.app/api?username=samir321-pixel&theme=radical&show_icons=true)
 <h3 align="center">⬇ Scroll down to see <a href="https://github.com/DenverCoder1?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
 
 
