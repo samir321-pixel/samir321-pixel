@@ -36,7 +36,6 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 - 💬 Ask me about ...anything i will try to help you if i can.
 - ⚡ Fun fact: I started coding at 18
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samir321-pixel&exclude_repo=github-readme-stats,samir321-pixel.github.io)](https://github.com/samir321-pixel/github-readme-stats)
 ## 🔥 My contribution streak
 
 <p align="center">
