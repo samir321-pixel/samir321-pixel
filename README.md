@@ -27,7 +27,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
        <img src="https://img.shields.io/badge/CSS-0081CB?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
       </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samir321-pixel)](https://github.com/samir321-pixel/github-readme-stats)
+
 ## About Personal Stuffs
 - 🔭 I’m currently working as a **Backend Developer**. 
 - 🌱 I’m currently focusing on **Frontend Web Development** and **Data Structures and Algorithms**.
@@ -43,6 +43,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
   <a href="https://github.com/samir321-pixel/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=samir321-pixel&theme=radical&hide_border=true&background=0D1117&stroke=0000"/>
         <img src="https://github-readme-stats.vercel.app/api?username=samir321-pixel&theme=radical&show_icons=true"/>
+    <img src="(https://github-readme-stats.vercel.app/api/top-langs/?username=samir321-pixel)](https://github.com/samir321-pixel/github-readme-stats"/>
   </a>
 </p>
 
