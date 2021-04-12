@@ -36,6 +36,14 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 - 💬 Ask me about ...anything i will try to help you if i can.
 - ⚡ Fun fact: I started coding at 18
 
+## 🔥 My contribution streak
+
+<p align="center">
+  <a href="https://github.com/samir321-pixel/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=samir321-pixel&theme=radical&hide_border=true&background=0D1117&stroke=0000"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=samir321-pixel&theme=radical&show_icons=true"/>
+  </a>
+</p>
 
 
 
