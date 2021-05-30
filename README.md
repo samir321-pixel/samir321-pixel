@@ -44,8 +44,8 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
         <img src="https://github-readme-stats.vercel.app/api?username=samir321-pixel&theme=highcontrast&show_icons=true"/>
   </a>
 </p>
-<a href="#"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samir321-pixel&layout=compact)"/>
-  </a>
+<!-- <a href="#"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samir321-pixel&layout=compact)"/>
+  </a> -->
 
 
 
