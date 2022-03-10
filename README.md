@@ -18,6 +18,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
   <img alt="redux" src="https://img.shields.io/badge/Redux-FF4500?style=for-the-badge&logo=redux&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-FF4500?style=for-the-badge&logo=graphql&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+    <img alt="kubernetes" src="https://img.shields.io/badge/-Kubernetes-brightgreen&Color=white" />
     <img src="https://img.shields.io/badge/HTML-FF4500?style=for-the-badge&logo=html5&logoColor=white"/>
            <img src="https://img.shields.io/badge/postgres-0B96B2?style=for-the-badge&logo=postgresql&logoColor=white"/>
               <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
