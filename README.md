@@ -20,6 +20,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
   <img alt="git" src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
     <img alt="kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
     <img src="https://img.shields.io/badge/HTML-FF4500?style=for-the-badge&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
            <img src="https://img.shields.io/badge/postgres-0B96B2?style=for-the-badge&logo=postgresql&logoColor=white"/>
               <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
