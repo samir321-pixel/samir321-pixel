@@ -8,7 +8,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
   
 <i>Happy Coding!</i> 😊
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samir321-pixel&label=Profile%20views&color=0e75b6&style=flat" alt="tanvi2508" /> </p>
+
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-3776AB?style=for-the-badge&logo=react&logoColor=white" />
@@ -54,7 +54,8 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 <!-- <a href="#"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samir321-pixel&layout=compact)"/>
   </a> -->
 
-
+## 🔥 My Profile Views
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=samir321-pixel&label=Profile%20views&color=0e75b6&style=flat" alt="tanvi2508" /> </p>
 
 <h3>Where to find me 😃 </h3>
 <p><a href="https://github.com/samir321-pixel" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Samir_Saitwal" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
