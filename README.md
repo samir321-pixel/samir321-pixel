@@ -54,7 +54,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 <!-- <a href="#"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samir321-pixel&layout=compact)"/>
   </a> -->
 
-## 🔥 My Profile Views
+<!-- ## 🔥 My Profile Views -->
 <h1 align="left"> <img src="https://komarev.com/ghpvc/?username=samir321-pixel&label=Profile%20views&color=0e75b6&style=flat" alt="tanvi2508" /> </h1>
 
 <h3>Where to find me 😃 </h3>
