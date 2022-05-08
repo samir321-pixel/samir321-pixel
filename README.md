@@ -6,9 +6,9 @@
 You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samir321-pixel&label=Profile%20views&color=0e75b6&style=flat" alt="tanvi2508" /> </p>
 <i>Happy Coding!</i> 😊
 </div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=samir321-pixel&label=Profile%20views&color=0e75b6&style=flat" alt="tanvi2508" /> </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-3776AB?style=for-the-badge&logo=react&logoColor=white" />
