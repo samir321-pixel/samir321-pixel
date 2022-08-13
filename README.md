@@ -42,7 +42,10 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
     <img alt="React" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
       <img alt="Azure" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
     <img alt="Azure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/Heroku-092E20?style=for-the-badge&logo=heroku&logoColor=white" /> </p>
+  <img alt="Heroku" src="https://img.shields.io/badge/Heroku-092E20?style=for-the-badge&logo=heroku&logoColor=white" /> 
+  <img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+  
 
 ## ⚡ Database [🔝](#welcome-badges-4-readmemd-profile)
   <p>     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-0B96B2?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -59,7 +62,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
          <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
            <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </p>
-             <img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+           
   <p>
       
 
