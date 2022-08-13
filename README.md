@@ -24,7 +24,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
       <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
     <img alt="Docker" src="https://img.shields.io/badge/Docker-F7DF1E?style=for-the-badge&logo=docker&logoColor=black" />
    <img alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-    <img alt="Django" src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white" />
+    <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
     <img alt="Djangorest" src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white" />
       <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
    <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-FF4500?style=for-the-badge&logo=graphql&logoColor=white" />
