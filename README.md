@@ -28,13 +28,20 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
    <img alt="kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
      <img alt="kubernetes" src="https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white" />
    <img alt="React" src="https://img.shields.io/badge/React-3776AB?style=for-the-badge&logo=react&logoColor=white" />
-  <img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" />
-    <img alt="React" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" /> </p>
+  
+## ☁ Cloud [🔝](#welcome-badges-4-readmemd-profile)
+<p>
+    <img alt="React" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+      <img alt="Azure" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
+    <img alt="Azure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img alt="Heroku" src="https://img.shields.io/badge/Heroku-092E20?style=for-the-badge&logo=heroku&logoColor=white" /> </p>
+  <p>
       <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img alt="Azure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  
          <img alt="Firebase" src="https://img.shields.io/badge/Firebase-0081CB?&style=for-the-badge&logo=firebase&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/Heroku-092E20?style=for-the-badge&logo=heroku&logoColor=white" />
+  
   <img alt="redux" src="https://img.shields.io/badge/Redux-FF4500?style=for-the-badge&logo=redux&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/HTML-FF4500?style=for-the-badge&logo=html5&logoColor=white"/>
