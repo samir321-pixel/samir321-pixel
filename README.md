@@ -36,19 +36,23 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
       <img alt="Azure" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
     <img alt="Azure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/Heroku-092E20?style=for-the-badge&logo=heroku&logoColor=white" /> </p>
+  
+## 👨 Social [🔝](#welcome-badges-4-readmemd-profile)
   <p>
-      <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
+   <img alt="git" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+         <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+           <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </p>
+  <p>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  
          <img alt="Firebase" src="https://img.shields.io/badge/Firebase-0081CB?&style=for-the-badge&logo=firebase&logoColor=white" />
-  
   <img alt="redux" src="https://img.shields.io/badge/Redux-FF4500?style=for-the-badge&logo=redux&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/HTML-FF4500?style=for-the-badge&logo=html5&logoColor=white"/>
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
               <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
          <img alt="Nano" src="https://img.shields.io/badge/nano-4A90E2?style=for-the-badge&logo=nano&logoColor=white" />
-             
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
       </p>
       
