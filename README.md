@@ -37,11 +37,12 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
        <img src="https://img.shields.io/badge/CSS-0081CB?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
       </p>
+      
 ## ⚡ Database [🔝](#welcome-badges-4-readmemd-profile)
   <p>     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-0B96B2?style=for-the-badge&logo=postgresql&logoColor=white" />
        <img alt="SQLite3" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /> 
       <img src="https://img.shields.io/badge/postgres-0B96B2?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<p>
+</p>
 ## About Personal Stuffs
 - 🔭 I’m currently working as a **Backend Developer**. 
 - 🌱 I’m currently focusing on **Frontend Web Development** and **Data Structures and Algorithms**.
