@@ -89,7 +89,6 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=samir321-pixel&theme=highcontrast&hide_border=true&background=0D1117&stroke=0000"/>
         <img src="https://github-readme-stats.vercel.app/api?username=samir321-pixel&theme=highcontrast&show_icons=true"/>
   </a>
-          <img src="https://github-profile-trophy.vercel.app/?username=samir321-pixel"/>
 </p>
 
 
