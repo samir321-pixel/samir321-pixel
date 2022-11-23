@@ -57,6 +57,11 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
+## 🔒 Security Platforms [🔝](#welcome-badges-4-readmemd-profile)
+  <p> 
+  <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white"/>
+  </p>
+
 ## 👨 Social [🔝](#welcome-badges-4-readmemd-profile)
   <p>
    <img alt="git" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
