@@ -89,6 +89,9 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=samir321-pixel&theme=highcontrast&hide_border=true&background=0D1117&stroke=0000"/>
         <img src="https://github-readme-stats.vercel.app/api?username=samir321-pixel&theme=highcontrast&show_icons=true"/>
   </a>
+          <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsamir321-pixel1212%2Fhit-counter"/>
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samir321-pixel&theme=vue"/>
+           <img src="https://gists-readme.yizack.com/api?user=samir321-pixel"/>
 </p>
 
 
