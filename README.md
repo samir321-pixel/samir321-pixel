@@ -119,7 +119,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
         <img src="https://github-readme-stats.vercel.app/api?username=samir321-pixel&theme=highcontrast&show_icons=true"/>
 <!--         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samir321-pixel&theme=vue"/> -->
   </a>
- <a href="https://github-readme-activity-graph.cyclic.app/graph?username=samir321-pixel&theme=github-compact "> </a>
+<a> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=samir321-pixel&theme=github-compact "/> </a>
 </p>
 
 <h1>
