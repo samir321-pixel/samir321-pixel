@@ -118,10 +118,9 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=samir321-pixel&theme=highcontrast&hide_border=true&background=0D1117&stroke=0000"/>
         <img src="https://github-readme-stats.vercel.app/api?username=samir321-pixel&theme=highcontrast&show_icons=true"/>
 <!--         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samir321-pixel&theme=vue"/> -->
-   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=samir321-pixel&theme=github-compact "/>
   </a>
 </p>
-
+<a>  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=samir321-pixel&theme=github-compact "/> </a>
 <h1>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFC0CB&width=435&lines=I+really+like+music!" alt="Typing SVG" /></a>
 </h1>
