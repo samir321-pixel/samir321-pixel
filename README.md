@@ -1,5 +1,10 @@
 <h1>Hey there, I'm <a  href="https://github.com/samir321-pixel">Samir</a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Nice to see you.</h1>
 
+ <h1> <a href="[https://github.com/DenverCoder1](https://github.com/samir321-pixel)">
+    <img src="[https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=435&lines=Hey+there%2C+I%27m+Samir+Nice+to+see+you!)](https://git.io/typing-svg)" alt="samir" /></a>
+ </h1>
+ 
+ 
 <h2>Backend developer from India. ❤️ </h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <div align="center">
