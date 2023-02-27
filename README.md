@@ -119,7 +119,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
   </a>
 
 </p>
- [![Samir's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=samir321-pixel)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 
