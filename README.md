@@ -2,7 +2,9 @@
 </h1>
  
  
-<h2>Backend developer from India. ❤️ </h2>
+<h2> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1&color=FFC0CB&width=435&lines=Fullstack+developer+from+India.+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a></h2>
+
+
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <div align="center">
 You have finally discovered my Github profile. <br>
