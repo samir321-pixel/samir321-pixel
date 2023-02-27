@@ -123,7 +123,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 </p>
 
 <h1>
-  i really like music :headphones:
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFC0CB&width=435&lines=I+really+like+music!" alt="Typing SVG" /></a>
 </h1>
 
 <!-- Nothing weird to see here -->
