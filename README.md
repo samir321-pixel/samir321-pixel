@@ -117,7 +117,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
   <a href="https://github.com/samir321-pixel/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=samir321-pixel&theme=highcontrast&hide_border=true&background=0D1117&stroke=0000"/>
         <img src="https://github-readme-stats.vercel.app/api?username=samir321-pixel&theme=highcontrast&show_icons=true"/>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samir321-pixel&theme=vue"/>
+<!--         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samir321-pixel&theme=vue"/> -->
   </a>
 </p>
 <a>  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=samir321-pixel&theme=github-compact "/> </a>
