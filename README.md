@@ -1,7 +1,8 @@
 <h1 align="center" > <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFC0CB&width=435&lines=Hey+there%2C+I'm+Samir+Nice+to+see+you!" alt="Typing SVG" /></a>
 </h1>
  
- 
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <h2 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=500&pause=10000&color=FFC0CB&width=435&lines=Fullstack+developer+from+India.+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a></h2>
 
 
