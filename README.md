@@ -14,6 +14,18 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 <i>Happy Coding!</i> 😊
 </div>
 
+<h1>
+  i really like music :headphones:
+</h1>
+
+<!-- Nothing weird to see here -->
+<p align="center">
+  <a href="https://readme.andyruwruw.com/api/now-playing?open">
+    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
+    <img src="https://readme.andyruwruw.com/api/now-playing">
+  </a>
+</p>
+
 ## 👩‍💻 Languages [🔝](#welcome-badges-4-readmemd-profile)
 <p>
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
