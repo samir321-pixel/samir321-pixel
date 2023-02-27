@@ -14,17 +14,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 <i>Happy Coding!</i> 😊
 </div>
 
-<h1>
-  i really like music :headphones:
-</h1>
 
-<!-- Nothing weird to see here -->
-<p align="center">
-  <a href="https://readme.andyruwruw.com/api/now-playing?open">
-    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
-    <img src="https://readme.andyruwruw.com/api/now-playing">
-  </a>
-</p>
 
 ## 👩‍💻 Languages [🔝](#welcome-badges-4-readmemd-profile)
 <p>
@@ -132,7 +122,17 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 
 </p>
 
+<h1>
+  i really like music :headphones:
+</h1>
 
+<!-- Nothing weird to see here -->
+<p align="center">
+  <a href="https://readme.andyruwruw.com/api/now-playing?open">
+    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
+    <img src="https://readme.andyruwruw.com/api/now-playing">
+  </a>
+</p>
 
 
 <!-- <a href="#"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samir321-pixel&layout=compact)"/>
