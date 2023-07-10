@@ -120,7 +120,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 <!--         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samir321-pixel&theme=vue"/> -->
   </a>
 </p>
-<a>  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=samir321-pixel&theme=github-compact "/> </a>
+<a>  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samir321-pixel&bg_color=000000&color=ffffff&line=00ff00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"/> </a>
 <h1>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFC0CB&width=435&lines=I+really+like+music!" alt="Typing SVG" /></a>
 </h1>
